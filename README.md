@@ -1,4 +1,8 @@
 # Password-Generator
+<p align="center">
+  <img src="https://img.shields.io/tokei/lines/github/reshmaharidhas/Password-Generator">
+  <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Password-Generator">
+</p><br>
 Java desktop application to generate random secure and strong password with lowercase & uppercase letters, symbols and numbers. This application let user to define any length for the password ranging between 8 and 25.
 
 Built using Java Swing 
