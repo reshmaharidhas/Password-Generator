@@ -1,5 +1,6 @@
 # Password-Generator
 <p align="center">
+  <img src="https://img.shields.io/github/stars/reshmaharidhas/Password-Generator?style=social">
   <img src="https://img.shields.io/tokei/lines/github/reshmaharidhas/Password-Generator">
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Password-Generator">
 </p><br>
