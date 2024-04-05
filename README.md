@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/stars/reshmaharidhas/Password-Generator?style=social">
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Password-Generator">
   <img src="https://img.shields.io/github/forks/reshmaharidhas/Password-Generator?style=flat-square&color=blue">
+  <img src="https://img.shields.io/github/downloads/reshmaharidhas/Password-Generator/total?labelColor=black&color=purple">
 
 </p><br>
 Java desktop application to generate random secure and strong password with lowercase & uppercase letters, symbols and numbers. This application let user to define any length for the password ranging between 8 and 25.
